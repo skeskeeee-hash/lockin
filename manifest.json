@@ -2,20 +2,21 @@
   "name": "lock in.",
   "short_name": "lock in.",
   "description": "Il tuo habit tracker personale",
-  "start_url": "/index.html",
+  "start_url": "/lockin/index.html",
+  "scope": "/lockin/",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/lockin/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "/lockin/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
